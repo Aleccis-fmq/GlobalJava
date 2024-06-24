@@ -4,7 +4,7 @@ import SE43Catalogo.Datos.AccesoDatosImpl;
 import SE43Catalogo.Datos.IAccesoDatos;
 import SE43Catalogo.Domain.Pelicula;
 import SE43Catalogo.Excepciones.AccesoDatosEx;
-import SE43Catalogo.Excepciones.LecturaDatos;
+
 
 public class CatalogoPeliculasImpl implements ICatalogoPeliculas {
 
