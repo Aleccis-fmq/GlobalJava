@@ -1,6 +1,13 @@
-//streams
+package SE47Streams;
 
-//Operaciones intermedias
+/**
+ * base2
+ */
+public class base2 {
 
+    // streams
 
-//Operaciones Terminales
+    // Operaciones intermedias
+
+    // Operaciones Terminales
+}

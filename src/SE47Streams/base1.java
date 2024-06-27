@@ -41,12 +41,13 @@ public class base1 {
 
         System.out.println(suma);
 
-        // Foreach
         // ejecuta la accion para cada elemento stream
 
         numeros.stream()
                 .forEach(System.out::println);
 
+        
+        
 
     }
 
